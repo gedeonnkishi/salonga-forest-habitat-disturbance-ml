@@ -79,23 +79,9 @@ Large raw geospatial datasets are **not redistributed** in this repository. The 
 salonga-forest-habitat-disturbance-ml/
 │
 ├── README.md
-├── requirements.txt
 ├── LICENSE
 ├── .gitignore
 │
-├── notebooks/
-│   └── Salonga_Forest_Habitat_Disturbance_Complete_Study.ipynb
-│
-├── outputs/
-│   ├── figures/
-│   │   ├── fig_study_area_grid_10km.png
-│   │   ├── fig_cumulative_loss_map_2001_2024_10km.png
-│   │   ├── fig_model_comparison_pr_auc_10km.png
-│   │   └── fig_predicted_risk_map_randomforest_2024_10km.png
-│   │
-│   └── tables/
-│       ├── model_performance_10km.csv
-│       └── class_balance_by_split_10km.csv
-│
-└── data/
-    └── README.md
+├── notebook/
+    └── Salonga_Forest_Habitat_Disturbance_Complete_Study.ipynb
+
