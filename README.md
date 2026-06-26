@@ -73,7 +73,7 @@ Large raw geospatial datasets are **not redistributed** in this repository. The 
 
 ---
 
-## 6. Repository Structure
+## 6. Repository Structure.
 
 ```text
 salonga-forest-habitat-disturbance-ml/
